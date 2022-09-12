@@ -2,7 +2,7 @@
 
 # Prefix
 
-[Pre](https://bnestu10.github.io/voca/pre)
+[Pre](https://bnestu10.github.io/voca/prefix/pre)
 
 # Root
 
