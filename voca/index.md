@@ -2,8 +2,12 @@
 
 # Prefix
 
-[Pre](https://bnestu10.github.io/voca/prefix/pre)
+[Pre-](https://bnestu10.github.io/voca/prefix/pre)
 
 # Root
 
+[Bene](https://bnestu10.github.io/voca/root/bene)
+
 # Suffix
+
+[-en](https://bnestu10.github.io/voca/suffix/en)
